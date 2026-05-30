@@ -50,7 +50,7 @@
 
 ```bash
 pip install pygame
-python tetris.py
+python tetris_game.py
 ```
 
 ---
