@@ -105,3 +105,6 @@ python tetris_game.py
 ├── tetris.py    # 游戏主程序
 └── README.md    # 本说明文档
 ```
+## 成品展示   
+<img width="751" height="942" alt="屏幕截图 2026-05-30 115708" src="https://github.com/user-attachments/assets/caa29b8f-a7ac-4125-9d8e-8617c87a35b1" />  
+可以根据自己的需求更改
